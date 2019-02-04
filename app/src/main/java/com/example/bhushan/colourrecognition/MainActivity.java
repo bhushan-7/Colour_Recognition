@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
 
 
                     /////   textView.setBackground(Color.rgb(r,g,b));
-                    textView.setText("rgb value : "+"( "+r+" , "+g+" , "+b+" )\n"+"Colour code : "+hex);
+                    textView.setText("RGB value : "+"( "+r+" , "+g+" , "+b+" )\n"+"Colour code : "+hex  );
 
                 }
 
